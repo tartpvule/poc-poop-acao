@@ -12,11 +12,15 @@ poc-poop-acao - an abuse of a certain extension to use browsers as a limited HTT
 # Description
 
 This is a proof-of-concept demonstrating the possibility to exploit installations of Firefox (or Chrome) with extensions injecting the "Access-Control-Allow-Origin : *" header into cross-domain XmlHttpRequest/fetch requests.
+
 This repository is an HTTP Proxy Server implementation that tunnels an attacker's traffic to/from a botnet of victims connected over Socket.IO connections.
+
 No plans to improve this thing currently exists, except to better illustrates the relevant issues.
 
 # License
 
 Public Domain
+
 No credit or acknowledgement necessary
+
 Just do not use it for evil purposes
