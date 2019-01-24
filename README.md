@@ -15,7 +15,7 @@ This is a proof-of-concept demonstrating the possibility to exploit installation
 
 This repository is an HTTP Proxy Server implementation that tunnels an attacker's traffic to/from a botnet of victims connected over Socket.IO connections.
 
-No plans to improve this thing currently exists, except to better illustrates the relevant issues.
+No plans to improve this thing currently exists, except to better illustrate the relevant issues.
 
 # License
 
