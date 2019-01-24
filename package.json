@@ -1,0 +1,11 @@
+{
+	"name": "poc-poop-acao",
+	"version": "0.1",
+	"description": "Proof of concept for POOP ACAO hazard",
+	"license": "Public Domain",
+	"main": "./main.js",
+	"dependencies": {
+		"socket.io": "^2.2.0"
+	},
+	"author": "tartpvule"
+}
